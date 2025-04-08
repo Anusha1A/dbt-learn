@@ -1,6 +1,6 @@
 sources:
   - name: jaffle_shop
-    database: raw
+    database: dbtproject-456206
     schema: jaffle_shop
     description: E-commerce data
     tables:
